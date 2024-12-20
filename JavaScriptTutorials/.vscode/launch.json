@@ -6,7 +6,7 @@
       "request": "launch",
       "name": "Launch Program",
       "skipFiles": [ "<node_internals>/**" ],
-      "program": "${workspaceFolder}/basic/variables/const.js",
+      "program": "${workspaceFolder}/basic/Data-Type/data-type.js",
       "cwd": "${workspaceFolder}",
       "console": "externalTerminal"
     }
